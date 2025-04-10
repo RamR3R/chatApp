@@ -38,20 +38,6 @@ Chat-App is a dynamic real-time messaging platform designed for seamless communi
 - Nginx
 - Certbot
 
-# Screen Shots
-
-## Login
-
-<img src="./public/login.png"/>
-
-## Singup
-
-<img src="./public/signup.png"/>
-
-## Main Chat
-
-<img src="./public/main.png"/>
-
 # Contributer
 
 This is a solo project made by <b>Ramsundar Sivakumar</b>
